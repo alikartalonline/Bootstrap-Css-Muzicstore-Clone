@@ -1,0 +1,61 @@
+body {
+    margin: 0;
+    background-color: #E9ECEF;
+}
+
+
+
+
+.tepe{
+    top: 0;
+    position: fixed;
+    display: block;
+    background-color: #525252;
+    line-height: 40px;
+    float: left;
+    width: 100%;
+    height: 5%;
+}
+
+
+.tepeyazi{
+    /* text-decoration: none; */
+    padding-left: 27px;
+   
+}
+
+.tepeyazi1{
+    padding-right: 30px;
+    /* font-size: x-large; */
+    font-size: 1.6em;
+    color: rgb(178, 48, 211);
+}
+
+.tepeyazi2{
+    padding-right: 10px;
+    color: white;
+}
+
+.tepeyazi1:hover {
+    color: red;
+    text-decoration: underline;
+}
+
+.tepeyazi2:hover {
+    color: red;
+    text-decoration: underline;
+}
+
+.merhaba{
+    text-align: center;
+}
+
+.liste{
+    text-align: center;
+    list-style-position: inside;
+    font: italic 1.2em "Fira Sans", serif;
+}
+
+.mavibuton {
+   margin-left: 50px;
+}
